@@ -14,7 +14,7 @@ class Quien extends Soy {
   ];
 }
 
-class Personalides extends Soy {
+class Como extends Soy {
   principios    = ['Honestidad', 'Respetuoso', 'Humildad'];
   personales    = ['Altruista', 'Disruptor', 'Apasionado'];
   sociales      = ['Espontaneo', 'Introvertido'];
@@ -23,7 +23,7 @@ class Personalides extends Soy {
   profesional   = ['Eficiente', 'Comprometido', 'Cumplidor'];
 }
 
-class Habilidades extends Soy {
+class Habilidades {
   lenguajes           = ['PHP', 'JavaScript', 'C', 'C++', 'Java', 'Python', 'Dart'];
   bases_de_datos      = ['MySQL', 'PostgreSQL', 'SQL Server', 'MongoDB'];
   frameworks          = ['Yii', 'Laravel', 'Symfony', 'Phalcon', 'Fat-free', 'Flutter'];
