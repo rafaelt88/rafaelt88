@@ -1,3 +1,8 @@
+# [Rafael J Torres](https://ve.linkedin.com/in/rafaelt88)      
+
+> Si quieres entender algo de verdad, intenta cambiarlo.
+<sub>--- Kurt Lewin</sub>
+
 ```js
 import { Soy } from '@venezuela';
 
@@ -15,9 +20,9 @@ class Quien extends Soy {
 }
 
 class Como extends Soy {
-  principios    = ['Honestidad', 'Respetuoso', 'Humildad'];
-  personales    = ['Altruista', 'Disruptor', 'Apasionado'];
-  sociales      = ['Espontaneo', 'Introvertido'];
+  principios    = ['Honestidad', 'Respeto', 'Humildad'];
+  personales    = ['Altruista', 'Disruptor', 'Pragmático'];
+  sociales      = ['Espontáneo', 'Introvertido'];
   tecnicos      = ['Lógico', 'Detallista'];
   como_atleta   = ['Guerrero', 'Constante', 'Competitivo'];
   profesional   = ['Eficiente', 'Comprometido', 'Cumplidor'];
