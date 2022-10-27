@@ -1,8 +1,5 @@
 # [Rafael J Torres](https://ve.linkedin.com/in/rafaelt88)      
 
-> Si quieres entender algo de verdad, intenta cambiarlo.
-<sub>--- Kurt Lewin</sub>
-
 ```js
 import { Soy } from '@venezuela';
 
@@ -40,3 +37,5 @@ class Habilidades {
   herramientas_3d     = ['Adobe 3DS Max', 'Panda 3D', 'JMoneyEngine'];
 }
 ```
+> Si quieres entender algo de verdad, intenta cambiarlo.
+<sub>--- Kurt Lewin</sub>
